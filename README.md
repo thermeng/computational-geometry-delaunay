@@ -53,7 +53,7 @@ To compile and run the project, you need a standard C++ development environment.
 <p align="center">
   <img src="UML.svg" width="1000"/>
 </p>
-### Output
 
+### Output
 The program will print the computation statistics and generate the VTK file:
 The final mesh can be found in the `triangulation.vtk` file.
