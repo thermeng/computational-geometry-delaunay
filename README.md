@@ -49,7 +49,10 @@ To compile and run the project, you need a standard C++ development environment.
     ```bash
     ./delaunay
     ```
-
+### Design Overview
+<p align="center">
+  <img src="UML.svg" width="1000"/>
+</p>
 ### Output
 
 The program will print the computation statistics and generate the VTK file:
